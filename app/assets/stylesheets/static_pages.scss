@@ -1,0 +1,25 @@
+// Place all the styles related to the static_pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+	background-color: #e9eaed;
+}
+
+.comment-wrapper {
+	background-color: #f6f7f8;
+	width: 45%;
+	margin: auto;
+}
+
+.comment-list {
+	list-style: none;
+}
+
+.comment-input {
+	width: 75%;
+	margin: 2px;
+}
+
+.comment-li {
+	margin-top: 4px;
+}
